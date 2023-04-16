@@ -65,3 +65,4 @@ jobs:
             --allow-unauthenticated \
             --project ${{ vars.GOOGLE_PROJECT_ID }} \
             --format json
+            
